@@ -48,5 +48,5 @@ Now everything is ready and if you'll refresh the website you will see it's work
 
 ![image](https://user-images.githubusercontent.com/88583978/171167289-6a2893fe-1455-412d-8128-0c9e3cf719b3.png)
 
-![image](https://user-images.githubusercontent.com/88583978/171167324-99a0f508-6085-4a2a-8be6-dcb86e888fef.png)
+![image](https://user-images.githubusercontent.com/88583978/171168463-7d8a0770-4d0d-4e9a-b235-d157849c3e08.png)
 
