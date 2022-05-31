@@ -23,7 +23,7 @@ To promote a cleaner development environment and to reduce repository size, NuGe
 Publish the application to a folder.
 
 Now if you'll go to your project repo in the workspace folder than go to bin\Release\net5.0\publish
-you will see an EXE file that you can run and then your check your application is running locally via http://localhost:5001 as in the screen shot:
+you will see an EXE file that you can run and then check your application is running locally via http://localhost:5001 as in the following screen shot:
 
 ![image](https://user-images.githubusercontent.com/88583978/171161946-62c5a82c-04e7-40dd-9eeb-923b26643e05.png)
 
